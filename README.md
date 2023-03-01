@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zupaazhai
 - 👀 I’m interested in Fullstack Development, DevOps, Amazing Web Application Tech
-- 🌱 I’m currently learning React, Go Lang
+- 🌱 I’m currently learning React, Go, AI stuff
 
 <!---
 zupaazhai/zupaazhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
